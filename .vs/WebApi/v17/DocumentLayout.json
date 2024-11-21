@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\.net\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B93FDDF2-AC74-436A-9E6D-2A0E241E6C1E}|WebApi\\WebApi.csproj|c:\\users\\admin\\.net\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93FDDF2-AC74-436A-9E6D-2A0E241E6C1E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93FDDF2-AC74-436A-9E6D-2A0E241E6C1E}|WebApi\\WebApi.csproj|c:\\users\\admin\\.net\\webapi\\webapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93FDDF2-AC74-436A-9E6D-2A0E241E6C1E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93FDDF2-AC74-436A-9E6D-2A0E241E6C1E}|WebApi\\WebApi.csproj|c:\\users\\admin\\.net\\webapi\\webapi\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93FDDF2-AC74-436A-9E6D-2A0E241E6C1E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93FDDF2-AC74-436A-9E6D-2A0E241E6C1E}|WebApi\\WebApi.csproj|c:\\users\\admin\\.net\\webapi\\webapi\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93FDDF2-AC74-436A-9E6D-2A0E241E6C1E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93FDDF2-AC74-436A-9E6D-2A0E241E6C1E}|WebApi\\WebApi.csproj|c:\\users\\admin\\.net\\webapi\\webapi\\dtos\\moviedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93FDDF2-AC74-436A-9E6D-2A0E241E6C1E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\moviedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93FDDF2-AC74-436A-9E6D-2A0E241E6C1E}|WebApi\\WebApi.csproj|c:\\users\\admin\\.net\\webapi\\webapi\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93FDDF2-AC74-436A-9E6D-2A0E241E6C1E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\.net\\WebApi\\WebApi\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\.net\\WebApi\\WebApi\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAawDIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:57:20.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\.net\\WebApi\\WebApi\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebApi\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\.net\\WebApi\\WebApi\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "WebApi\\Helpers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:56:08.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\.net\\WebApi\\WebApi\\Dtos\\MovieDetailsDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dtos\\MovieDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\.net\\WebApi\\WebApi\\Dtos\\MovieDetailsDto.cs",
+              "RelativeToolTip": "WebApi\\Dtos\\MovieDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:46:29.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\.net\\WebApi\\WebApi\\Dtos\\MovieDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dtos\\MovieDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\.net\\WebApi\\WebApi\\Dtos\\MovieDto.cs",
+              "RelativeToolTip": "WebApi\\Dtos\\MovieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:46:09.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenreDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\.net\\WebApi\\WebApi\\Dtos\\GenreDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dtos\\GenreDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\.net\\WebApi\\WebApi\\Dtos\\GenreDto.cs",
+              "RelativeToolTip": "WebApi\\Dtos\\GenreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:42:20.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\.net\\WebApi\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\.net\\WebApi\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:39:09.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
